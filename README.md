@@ -12,7 +12,7 @@ O agrupamento (*clustering*) consiste em separar objetos em grupos, baseando-se 
  * **input_file**: Path do arquivo de entrada contendo todos os vértice do grafo no formato (x, y).
  * **output_file**: Path do arquivo de saída
  * **algorithm**: Uma *string* indicando qual algoritmo deve ser executado:
-    + **prim**: Algoritimo de Prim
+    + **prim**: Algoritmo de Prim
     + **kruskal**: Algoritmo de Kruskal
  * **number_clusters** : Um número inteiro *k*, indicando o número de grupos a serem formados
  
