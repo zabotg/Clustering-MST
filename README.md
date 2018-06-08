@@ -9,7 +9,7 @@ O agrupamento (*clustering*) consiste em separar objetos em grupos, baseando-se 
  $ python clustering.py input_file output_file algorithm number_clusters
  ```
  onde:
- * **input_file**: Path do arquivo de entrada contendo todos os vértice o grafo no formato (x, y).
+ * **input_file**: Path do arquivo de entrada contendo todos os vértice do grafo no formato (x, y).
  * **output_file**: Path do arquivo de saída
  * **algorithm**: Uma *string* indicando qual algoritmo deve ser executado:
     + **prim**: Algoritimo de Prim
