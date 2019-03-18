@@ -18,7 +18,7 @@ O agrupamento (*clustering*) consiste em separar objetos em grupos, baseando-se 
  
 ## Resultados Finais
 <p align="center">
-  <img src="https://github.com/zabotg/Clusterizacao-MST/blob/master/MST-Completa.png" width="287"/>
-  <img src="https://github.com/zabotg/Clusterizacao-MST/blob/master/MST-Clusterizada.png" width="287"/>
-  <img src="https://github.com/zabotg/Clusterizacao-MST/blob/master/Clusters.png" width="287"/>
+  <img src="https://raw.githubusercontent.com/zabotg/Clustering-MST/master/Images/MST-Completa.png" width="287"/>
+  <img src="https://raw.githubusercontent.com/zabotg/Clustering-MST/master/Images/MST-Clusterizada.png" width="287"/>
+  <img src="https://raw.githubusercontent.com/zabotg/Clustering-MST/master/Images/Clusters.png" width="287"/>
 </p>
